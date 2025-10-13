@@ -24,11 +24,12 @@ Create your first GIF now: ​​https://fastmakergif.com
 
 ### You can even add a funny picture of Trump and draw a quick circle around the best part. Boom! You've highlighted the hilarious moment.
 
-![export (100)](https://github.com/user-attachments/assets/7dd472a9-8e4f-4e76-bb9b-2bb40fbbfe56)
+![export - 2025-10-13T233400 810](https://github.com/user-attachments/assets/4dd4fee1-9c5b-4c42-8bbc-830197c69cff)
 
 > Example website from: https://fastmakergif.com
 
 <img width="720" height="348" alt="The website that created this GIF is from: https://fastmakergif.com" src="https://github.com/user-attachments/assets/b6afa8ac-2d38-493c-8c64-907ca91cefdc" />
+
 
 
 
