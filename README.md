@@ -31,5 +31,8 @@ Create your first GIF now: ​​https://fastmakergif.com
 <img width="720" height="348" alt="The website that created this GIF is from: https://fastmakergif.com" src="https://github.com/user-attachments/assets/b6afa8ac-2d38-493c-8c64-907ca91cefdc" />
 
 
+recommend: You can try this website: https://yourizzai.com ， This website can understand the true meaning expressed by the message sender and provide you with suggestions for replies. It is currently the best Rizz AI tool for Rizz
+
+
 
 
